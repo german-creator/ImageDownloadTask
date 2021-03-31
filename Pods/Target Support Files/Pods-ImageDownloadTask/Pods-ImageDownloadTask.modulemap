@@ -1,0 +1,6 @@
+module Pods_ImageDownloadTask {
+  umbrella header "Pods-ImageDownloadTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
